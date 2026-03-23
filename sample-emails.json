@@ -1,0 +1,38 @@
+[
+  {
+    "from": "juzgado.social.3@justicia.es",
+    "subject": "Notificación — Procedimiento 412/2025",
+    "body": "Se le notifica que el acto de juicio oral señalado para el día 28 de marzo de 2026 a las 10:00 horas ha sido suspendido. Se señala nueva fecha para el 15 de abril de 2026 a las 11:30 horas. Acuse recibo de la presente notificación.",
+    "receivedAt": "2026-03-20T09:14:00Z"
+  },
+  {
+    "from": "maria.garcia@gmail.com",
+    "subject": "Consulta sobre mi caso de despido",
+    "body": "Buenos días, soy María García. Me despidieron hace dos semanas de mi trabajo en una tienda de ropa después de 5 años. Me dieron una carta de despido disciplinario pero creo que es improcedente porque nunca tuve ninguna sanción. ¿Pueden ayudarme? Me urge porque creo que hay un plazo para reclamar. Mi teléfono es 612 345 678.",
+    "receivedAt": "2026-03-20T10:32:00Z"
+  },
+  {
+    "from": "newsletter@legaltoday.com",
+    "subject": "Boletín Semanal — Novedades legislativas marzo 2026",
+    "body": "Estimado suscriptor, estas son las novedades legislativas de la semana: 1) Reforma del artículo 49 del Estatuto de los Trabajadores... 2) Nueva directiva europea sobre protección de datos... Para darse de baja, haga clic aquí.",
+    "receivedAt": "2026-03-20T07:00:00Z"
+  },
+  {
+    "from": "carlos.lopez@bufeteopuesto.es",
+    "subject": "Re: Caso Fernández — Propuesta de acuerdo",
+    "body": "Estimado letrado, en relación al procedimiento de divorcio de nuestros respectivos clientes, le remito propuesta de convenio regulador. Mi cliente acepta la custodia compartida semanal pero solicita el uso del domicilio familiar. Adjunto borrador. Quedamos a la espera de su respuesta antes del viernes.",
+    "receivedAt": "2026-03-20T14:45:00Z"
+  },
+  {
+    "from": "pedro.martinez@cliente.com",
+    "subject": "Factura pendiente",
+    "body": "Hola, les escribo porque he recibido una factura por 1.500€ del mes pasado pero creo que ya la pagué por transferencia. ¿Pueden comprobar? Adjunto el justificante de pago.",
+    "receivedAt": "2026-03-20T16:20:00Z"
+  },
+  {
+    "from": "ana.ruiz@gmail.com",
+    "subject": "Cita para la semana que viene",
+    "body": "Buenos días, me gustaría pedir cita para la semana que viene para hablar sobre la herencia de mi padre. Tengo disponibilidad el martes o jueves por la mañana. Gracias.",
+    "receivedAt": "2026-03-20T11:05:00Z"
+  }
+]
