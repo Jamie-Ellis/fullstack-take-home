@@ -117,6 +117,7 @@ This is the part AI can't do for you. We want to hear how you think.
 ## Submission
 
 1. **Create a private copy of this repo** — do not fork directly (GitHub doesn't allow private forks of public repos). Instead:
+
    ```bash
    git clone https://github.com/Jamie-Ellis/fullstack-take-home.git
    cd fullstack-take-home
@@ -124,13 +125,13 @@ This is the part AI can't do for you. We want to hear how you think.
    git remote set-url origin https://github.com/YOUR_USERNAME/fullstack-take-home.git
    git push -u origin main
 
-Build your solution in your private repo
-Place your architecture diagram in the /docs folder
-Update this README.md with your setup instructions (keep the assignment brief above, add a "Setup" section below)
-Email jamie@juryo.ai with:
-Subject: Take-Home — [Your Name]
-Link to your repo (invite jamiekyaellis@gmail.com as a collaborator)
-Link to the Loom recording
+3. Build your solution in your private repo
+4. Place your architecture diagram in the /docs folder
+5. Update this README.md with your setup instructions (keep the assignment brief above, add a "Setup" section below)
+6. Email jamie@juryo.ai with:
+7. Subject: Take-Home — [Your Name]
+8. Link to your repo (invite jamiekyaellis@gmail.com as a collaborator)
+9. Link to the Loom recording
 
 ---
 
