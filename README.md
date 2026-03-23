@@ -122,7 +122,7 @@ This is the part AI can't do for you. We want to hear how you think.
 4. Update this `README.md` with your setup instructions (keep the assignment brief above, add a "Setup" section below)
 5. Email jamie@juryo.ai with:
    - Subject: `Take-Home — [Your Name]`
-   - Link to your fork (invite `jamie@juryo.ai` as a collaborator)
+   - Link to your fork (invite `jamiekyaellis@gmail.com` as a collaborator)
    - Link to the Loom recording
 
 ---
